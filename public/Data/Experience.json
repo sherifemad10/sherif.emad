@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "year": "Aug 2024 - Oct 2024",
+    "position": "Project Manager Team Lead",
+    "company": "SEF Academy ",
+    "companyLogo": "../SEF.jpeg",
+    "location": "Remote",
+    "type": "- internship",
+    "details": [
+      
+      "- Worked as Team Leader for the Academy Website Project:",
+      " Led a team to successfully deliver the complete academy website project.",
+      " Conducted project analysis, assigned tasks, and set clear timelines.",
+      " Monitored daily progress, resolved obstacles, and ensured smooth collaboration.",
+      " Consolidated team contributions into the final project and provided feedback for future improvement."
+      
+    ],
+    "Skill": ["HTML", "Cascading Style Sheets (CSS)", "React.js", "Firebase", "Responsive Web Design", "Vite", "Technical Project Leadership"]
+  },
+  {
+    "id": 2,
+    "year": "Jul 2025 - Aug 2025",
+    "position": "Frontend Developer",
+    "company": "Web Master",
+    "companyLogo": "../webMaster.jpeg",
+    "location": "Remote",
+    "type": "- internship",
+    "details": [
+      
+      "- Worked as a Front-End Web Developer:",
+      " Converted a project from Pure CSS to Tailwind CSS, improving scalability and development speed.",
+      " Evaluated user interfaces and proposed enhancements to optimize user experience.",
+      " Applied best practices in UI/UX design through real-world case studies.",
+      " Collaborated on an e-commerce project using Git for version control and teamwork."
+      
+    ],
+    "Skills": ["E-Commerce", "Front-End Development", "Tailwind CSS", "User Experience (UX)", "React.js", "Api"]
+  }
+]

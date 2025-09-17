@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "title": "Gazini",
+    "projectImage": "../gazini.png",
+    "description": "The #1 AI-powered therapeutic nutrition platform with three key tracks: create a personalized diet by calculating BMI, BMR, and daily calories; read and interpret medical analyses with clear insights; and a personal assistant that explains your symptoms and provides accurate health guidance tailored to your condition.",
+    "tags": [ "Chatgpt API", "Vite", "Tailwind CSS", "Responsive Web Design"],
+    "demo": "https://gazini.vercel.app/"
+    
+  },
+  {
+    "id": 2,
+    "title": "Pizza Hut",
+    "projectImage": "../PizzaHut.png",
+    "description": "Enjoy hot and fresh pizza delivery at your doorstep in less than thirty minutes. Find your nearest Hut, enter your address to see your local deals, and order a delicious pizza with Pizza Hut app",
+    "tags": ["Vite", "Tailwind CSS", "Typescript", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/PizzaHut.git",
+    "demo": "https://pizzahut-mu.vercel.app/"
+    
+  },
+  {
+    "id": 3,
+    "title": "Lume Dental Clinic",
+    "projectImage": "../Lume.png",
+    "description": "Our website offers a seamless and user-friendly experience to book your medical consultation online. Simply fill in your personal information, select your preferred appointment date, and choose the doctor you would like to avoid if you have a preference. Once submitted, your details are instantly sent to our team via WhatsApp..",
+    "tags": ["Vite", "Tailwind CSS", "Typescript", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/Lume-Dental-Clinic.git",
+    "demo": "https://lume-dental-clinic.vercel.app/"
+  },
+  {
+    "id": 4,
+    "title": "Mentors",
+    "projectImage": "../Mentors.png",
+    "description": "A course platform that contains courses in many fields.",
+    "tags": ["Vite", "Vite", "Tailwind CSS", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/Mentors.git",
+    "demo": "https://mentors-hazel.vercel.app/"
+  },
+  {
+    "id": 5,
+    "title": "Cura",
+    "projectImage": "../Cura.png",
+    "description": "Built a responsive bilingual (Arabic/English) website for Nurinest Clinic with dark/light mode, clinic info, services, BMI/BMR calculators, and a smart appointment form that sends data directly to WhatsApp. Focused on user experience, accessibility, and real-time communication.",
+    "tags": ["React.js", "CSS", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/Cura.git",
+    "demo": "https://cura-teal.vercel.app/"
+  },
+  {
+    "id": 6,
+    "title": "Dr.Sherif",
+    "projectImage": "../Dr.sherif.png",
+    "description": "Welcome to the official website of Dr. Sherif, a specialist in therapeutic nutrition. This website is designed to help users assess their health status by calculating their Body Mass Index (BMI) and Basal Metabolic Rate (BMR). With an elegant and user-friendly design, the website ensures a smooth and comfortable experience for all visitors.",
+    "tags": ["React.js", "CSS","SASS","JavaScript", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/Dr.Sherif.git",
+    "demo": "https://dr-sherif.vercel.app/"
+  },
+  {
+    "id": 7,
+    "title": "ISCodo",
+    "projectImage": "../Iscodo.png",
+    "description": "A website for a programming company specialized in designing websites, user interfaces, and mobile applications.",
+    "tags": ["React.js", "CSS","JavaScript", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/ISCodo.git",
+    "demo": "https://iscodo.vercel.app/"
+  },
+  {
+    "id": 8,
+    "title": "Dento Clinic",
+    "projectImage": "../dento.png",
+    "description": "A website for a dental center through which you can book a medical consultation by filling in the data and choosing the doctor you do not want and choosing the appropriate appointment for you, and the data is then sent to the center's WhatsApp.",
+    "tags": ["React.js", "CSS","JavaScript", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/Dento-Clinic.git",
+    "demo": "https://dento-clinic.vercel.app/"
+  },
+  {
+    "id": 9,
+    "title": "SEF Academy",
+    "projectImage": "../SEF.png",
+    "description": "SEF Academy is an academic website that offers programming courses and publishes articles in various fields. The site consists of many pages, but there are pages that anyone can visit and view their content without the need to register, and pages that melt if you are logged in and according to the solution, admin, student, or lecturer.",
+    "tags": ["React.js", "CSS","JavaScript", "Firebase", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/SEF-Academy.git",
+    "demo": "https://sef-academyyy.firebaseapp.com/"
+  },
+  {
+    "id": 10,
+    "title": "Swatch",
+    "projectImage": "../Swatch.png",
+    "description": "Show movies and series, rate movies and series, and show the top 10 series and movies",
+    "tags": ["React.js", "CSS","JavaScript","API", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/Swatch.git",
+    "demo": "https://swatch-peach.vercel.app/"
+  },
+  {
+    "id": 11,
+    "title": "Offside",
+    "projectImage": "../offside.png",
+    "description": "Offsite is a website the sale the Sneakers",
+    "tags": ["React.js", "Tailwind CSS","JavaScript", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/Offside.git",
+    "demo": "https://offsidewebsite-10s-projects.vercel.app/"
+  },
+  {
+    "id": 12,
+    "title": "Frashy",
+    "projectImage": "../freshy.png",
+    "description": "Restaurant Website Template with React js and with a feature, when a customer requests an order, you will receive an order via email. The site also has a menu feature, which is a new idea that is not found on any site on the Internet.",
+    "tags": ["React.js", "CSS","JavaScript", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/Restaurant-Website-.git",
+    "demo": "https://restaurant-website-vert-tau.vercel.app/"
+  },
+  {
+    "id":13,
+    "title": "Facebook Clone",
+    "projectImage": "../Facebook.png",
+    "description": "Facebook Clone with React js",
+    "tags": ["React.js", "CSS","JavaScript", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/facebook-clone.git",
+    "demo": "https://facebook-clon3.vercel.app/"
+  },
+  {
+    "id":14,
+    "title": "Gemini Chat",
+    "projectImage": "../gemini.png",
+    "description": "Gemini Chat Clone with React js",
+    "tags": ["React.js", "CSS","JavaScript","API", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/Gemini-Chat.git",
+    "demo": "https://gemini-chat-lime.vercel.app/"
+  },
+  {
+    "id":15,
+    "title": "EShop",
+    "projectImage": "../Eshop.png",
+    "description": "e-commerce website for laptop",
+    "tags": ["React.js", "CSS","JavaScript", "Responsive Web Design"],
+    "github": "https://github.com/sherifemad10/Eshop-react.git",
+    "demo": "https://eshop-react-ashy.vercel.app/"
+  }
+]

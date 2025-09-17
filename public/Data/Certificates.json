@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "position": "Freelance Kickoff Program",
+    "company": "Creativa Innovation Hub - Menofia",
+    "year": "Aug 2025",
+    "companyLogo":"../cerativa.jpeg",
+    "Skills": ["Mostaql", "Upwork", "khamsat","Client Communication", "LinkedIn"]
+  },
+  {
+    "id": 2,
+    "position": "Media Buying ",
+    "company": "Creativa Innovation Hub - Menofia",
+    "year": "Aug 2025",
+    "companyLogo":"../cerativa.jpeg",
+    "Skills": ["Facebook Ads", "Instagram Ads","TikTok Ads", "Ad Campaigns"]
+  },
+  {
+    "id": 3,
+    "position": " HTML and CSS",
+    "company": "Manara",
+    "year": "Oct 2024",
+    "companyLogo":"../manara.jpeg",
+    "Skills": ["HTML", "Cascading Style Sheets (CSS)", "Responsive Web Design"]
+  },
+  {
+    "id": 4,
+    "position": "React js",
+    "company": "W3Schools.com",
+    "year": "Sep 2024",
+    "companyLogo":"../w3schoolscom.jpeg",
+    "Skills": ["React.js", "Hooks", "State Management", "Routing"]
+  },
+  {
+    "id": 5,
+    "position": "Web Development Using React JS",
+    "company": "Information Technology Institute (ITI)",
+    "year": "Jul 2024",
+    "companyLogo":"../ITI.jpeg",
+    "Skills": ["HTML", "Cascading Style Sheets (CSS)", "Bootstrap","Responsive Web Design","JavaScript", "React.js"]
+  },
+  {
+    "id": 6,
+    "position": "React Js",
+    "company": "MaharaTech - ITIMooca",
+    "year": "Jun 2024",
+    "companyLogo":"../mahara.jpeg",
+    "Skills": ["React.js","Hooks","Class Components","Functional Components","State Management","Props","Routing","Context API"]
+  },
+  {
+    "id": 7,
+    "position": "Front-end web development Diploma",
+    "company": "SEF Academy",
+    "year": "Oct 2023",
+    "companyLogo": "../SEF.jpeg",
+    "Skills": ["HTML", "Cascading Style Sheets (CSS)", "JavaScript", "Responsive Web Design","Bootstrap","Tailwind CSS","GitHub","React.js","Firebase","Vite"]
+  },
+  {
+    "id": 8,
+    "position": "HTML & CSS",
+    "company": "MaharaTech - ITIMooca",
+    "year": "Jul 2023",
+    "companyLogo":"../mahara.jpeg",
+    "Skills": ["HTML", "Cascading Style Sheets (CSS)", "Responsive Web Design","Flexbox","Grid"]
+  },
+  {
+    "id": 9,
+    "position": "Programming with JavaScript",
+    "company": "Meta",
+    "year": "Jul 2023",
+    "companyLogo":"../meta.jpeg",
+    "Skills": ["JavaScript", "ES6+", "DOM Manipulation", "Event Handling", "Asynchronous JavaScript"]
+  },
+    {
+    "id": 10,
+    "position": "React Js",
+    "company": "Satr",
+    "year": "Aug 2023",
+    "companyLogo":"../satar.png",
+    "Skills": ["React.js", "Hooks", "State Management", "Routing"]
+  },
+  {
+    "id": 11,
+    "position": "JavaScript 102",
+    "company": "Satr",
+    "year": "Jun 2023",
+    "companyLogo":"../satar.png",
+    "Skills": ["JavaScript", "ES6+", "DOM Manipulation", "Event Handling", "Asynchronous JavaScript"]
+  },
+  {
+    "id": 12,
+    "position": "JavaScript 101",
+    "company": "Satr",
+    "year": "Jun 2023",
+    "companyLogo":"../satar.png",
+    "Skills": ["JavaScript"]
+  },
+  {
+    "id": 13,
+    "position": "Bootstrap",
+    "company": "Satr",
+    "year": "May 2023",
+    "companyLogo":"../satar.png",
+    "Skills": ["Bootstrap"]
+  },
+  {
+    "id":14,
+    "position": "Cascading Style Sheets (CSS)",
+    "company": "Satr",
+    "year": "May 2023",
+    "companyLogo":"../satar.png",
+    "Skills": ["Cascading Style Sheets (CSS)", "Responsive Web Design","Flexbox","Grid"]
+  },
+  {
+    "id": 15,
+    "position": "HTML",
+    "company": "Satr",
+    "year": "Apr 2023",
+    "companyLogo":"../satar.png",
+    "Skills": ["HTML", "Semantic HTML"]
+  }
+  
+
+]
