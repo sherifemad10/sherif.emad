@@ -2,7 +2,7 @@ import React from "react";
 import { cn } from "../lib/utils";
 
 export function AuroraTextEffect({
-  text = "Hi, I'm Sherif Emad",
+  text = "Sherif Emad",
   className,
   textClassName,
   fontSize = "3rem",
