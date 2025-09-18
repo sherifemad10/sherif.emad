@@ -9,7 +9,7 @@ const Navbar = () => {
     <section className='flex flex-col justify-center items-center gap-4 sm:gap-6 p-3 sm:p-5 w-full bg-[#25284122] backdrop-blur-2xl border-2 border-[#c8b39e46] rounded-xl shadow-2xl m-2 sm:m-4 lg:m-6'>
 
       {/* Profile Image */}
-      <figure className="w-full max-w-[200px] sm:max-w-[250px] lg:max-w-[300px]">
+      <figure className="w-full max-w-[300px]">
         <Image
           src={'/sherifemad.png'}
           alt="Sherif Emad"
