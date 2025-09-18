@@ -6,7 +6,7 @@ export function AuroraTextEffect({
   className,
   textClassName,
   fontSize = "3rem",
-  colors = ["#06b6d4", "#facc15", "#22c55e", "#a855f7"], // cyan, yellow, green, purple
+  colors = ["#06b6d4", "#facc15", "#E7D1BB", "#a855f7"], // cyan, yellow, green, purple
   animationSpeed = "8s",
 }) {
   const keyframes = `
