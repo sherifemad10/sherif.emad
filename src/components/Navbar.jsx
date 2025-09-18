@@ -31,7 +31,7 @@ const Navbar = () => {
 
       {/* Name */}
       <div className='flex justify-center items-center gap-2'>
-        <h1 className='text-2xl  lg:text-4xl font-bold text-white'>Sherif Emad</h1>
+        <h1 className='text-xl  lg:text-4xl font-bold text-white'>Sherif Emad</h1>
         <span className='text-lg sm:text-xl text-[#47b1ea]'>
           <MdOutlineVerified />
         </span>
