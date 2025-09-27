@@ -90,7 +90,7 @@ const Footer = () => {
         {/* facebook */}
         <div className="social-button cursor-pointer">
           <a
-            href="https://www.facebook.com/sherif3mad"
+            href="https://www.facebook.com/thesherifemad"
             target="_blank"
             rel="noopener noreferrer"
           >
