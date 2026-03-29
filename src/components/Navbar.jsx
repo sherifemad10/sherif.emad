@@ -11,7 +11,7 @@ const Navbar = () => {
       {/* Profile Image */}
       <figure className="w-full max-w-[300px]">
         <Image
-          src={'/sherifemad.jpg'}
+          src={Logo}
           alt="Sherif Emad"
           width={300}
           height={300}
